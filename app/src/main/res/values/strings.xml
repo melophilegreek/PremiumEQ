@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Premium EQ</string>
+    <string name="tile_label">Equalizer</string>
+    <string name="widget_description">Quick equalizer control</string>
+
+    <string name="eq_title">Equalizer</string>
+    <string name="eq_no_session_error">No audio effects engine is available on this device.</string>
+    <string name="eq_bands_unsupported">Multi-band equalizer is not supported on this device.</string>
+    <string name="bass_boost_unsupported">Bass Boost is not supported on this device.</string>
+    <string name="virtualizer_unsupported">Virtualizer is not supported on this device.</string>
+    <string name="loudness_unsupported">Loudness Enhancer is not supported on this device.</string>
+    <string name="preamp_label">Preamp</string>
+    <string name="balance_label">Balance</string>
+    <string name="mono_label">Mono</string>
+    <string name="save_preset">Save Preset</string>
+    <string name="delete_preset">Delete Preset</string>
+    <string name="export_preset">Export</string>
+    <string name="import_preset">Import</string>
+    <string name="microphone_permission_rationale">Microphone access is required only to render the real-time visualizer (no audio is recorded or stored).</string>
+</resources>
